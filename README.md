@@ -3,48 +3,30 @@
 
 We are developing a solution to help you remove unwanted content from your services. We provide libraries and programs that you can easily integrate into your systems, saving you time and avoiding the need to create your own blocklists.
 
+> Our webiste: [https://scheck-blocklist.vercel.app](https://scheck-blocklist.vercel.app/)<br>
+> Docs: [https://scheck-blocklist.vercel.app/docs](https://scheck-blocklist.vercel.app/docs)<br>
+> Terms of Service: [https://scheck-blocklist.vercel.app/docs/terms](https://scheck-blocklist.vercel.app/)
+>
+> Support: [https://thallium.vercel.app/support]
+
 ---
 
 ## Project Contents
 
 - **Python Library**  
-  - PyPi: *(coming soon)*  
-  - Repository: [https://github.com/SCheck-Blocklist/Python-Library](https://github.com/SCheck-Blocklist/Python-Library)  
+  - PyPi: [https://pypi.org/project/scheckbl](https://pypi.org/project/scheckbl/)
+  - Repository: [https://github.com/SCheck-Blocklist/Python-Library](https://github.com/SCheck-Blocklist/Python-Library)
+  - Info Page:  [https://scheck-blocklist.vercel.app/library](https://scheck-blocklist.vercel.app/library)
+  - Docs:  [https://scheck-blocklist.vercel.app/docs/library](https://scheck-blocklist.vercel.app/docs/library)  
 
-- **Engine**  
-  - Repository: [https://github.com/SCheck-Blocklist/Engine](https://github.com/SCheck-Blocklist/Engine)  
+- **CLI Engine**
+  - PyPi: [https://pypi.org/project/scheckbl-cli](https://pypi.org/project/scheckbl-cli/)  
+  - Repository: [https://github.com/SCheck-Blocklist/Engine](https://github.com/SCheck-Blocklist/CLI)
+  - Info Page:  [https://scheck-blocklist.vercel.app/cli](https://scheck-blocklist.vercel.app/cli)
+  - Docs:  [https://scheck-blocklist.vercel.app/docs/cli](https://scheck-blocklist.vercel.app/docs/cli)
 
 - **Datasets**  
-  - Repository: [https://github.com/SCheck-Blocklist/Datasets](https://github.com/SCheck-Blocklist/Datasets)  
+  - Repository: [https://github.com/SCheck-Blocklist/Datasets](https://github.com/SCheck-Blocklist/Datasets)
+  - Modification Protocol:  [https://scheck-blocklist.vercel.app/docs/protocol](https://scheck-blocklist.vercel.app/docs/protocol)
 
----
-
-## How does the Python library work?
-
-The library allows you to continuously access our knowledge base directly from your Python code, enabling easy retrieval and processing of blocklist information.
-
-- PyPi: *(coming soon)*  
-- Wiki:  [https://github.com/SCheck-Blocklist/Python-Library](https://github.com/SCheck-Blocklist/Python-Library)  
-
----
-
-## How does the Engine work?
-
-The Engine is a standalone program you can run locally on your computer. It enables you to:  
-- check if information exists in the knowledge base,  
-- retrieve data from specific categories,  
-- search for similar information, and more.
-
-Download: [https://github.com/SCheck-Blocklist/Engine](https://github.com/SCheck-Blocklist/Engine) 
-
----
-
-## Is it possible to modify the database data?
-
-Yes, anyone can contribute their own data to the database. This process is described in the modification protocol.
-
-- Modification Protocol: [https://github.com/SCheck-Blocklist/Datasets/blob/main/Modification-Protocol.md](https://github.com/SCheck-Blocklist/Datasets/blob/main/Modification-Protocol.md)  
-
----
-
-~Stainowy and SCheck Team
+~SCheck Team
